@@ -1,0 +1,4 @@
+C:\Users\baltasarq\Dropbox\prys\tests\catodo\bin\Release\catodo.exe
+C:\Users\baltasarq\Dropbox\prys\tests\catodo\bin\Release\catodo.pdb
+C:\Users\baltasarq\Dropbox\prys\tests\catodo\obj\x86\Release\catodo.exe
+C:\Users\baltasarq\Dropbox\prys\tests\catodo\obj\x86\Release\catodo.pdb
