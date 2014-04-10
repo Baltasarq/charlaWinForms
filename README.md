@@ -1,5 +1,5 @@
-Charla sobre C# y WinForms sobre Mono
-=====================================
+Charla sobre C#/mono y WinForms
+===============================
 
 Charla en los ESEI Dojos sobre programación con C# en WinForms sobre mono, con MonoDevelop.
 <p>
