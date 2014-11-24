@@ -1,4 +1,0 @@
-C:\Users\baltasarq\Dropbox\prys\tests\catodo\bin\Debug\catodo.exe
-C:\Users\baltasarq\Dropbox\prys\tests\catodo\bin\Debug\catodo.pdb
-C:\Users\baltasarq\Dropbox\prys\tests\catodo\obj\x86\Debug\catodo.exe
-C:\Users\baltasarq\Dropbox\prys\tests\catodo\obj\x86\Debug\catodo.pdb
